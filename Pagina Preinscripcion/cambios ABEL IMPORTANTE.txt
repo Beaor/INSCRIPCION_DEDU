@@ -1,0 +1,41 @@
+PREINSCRIPCION
+
+boton INSCRIBIRSE Y SACARLE EL PRE-
+
+ETAPAS
+
+darle formato
+
+hacer iconos con bordes de color como corresponde para que haga referencia a la pagina de prefectura.
+
+en el index hay cambios, ver la pagina de abel
+
+al hacer click saber en que página está.
+
+en escuelas van dos videos
+
+
+DOCUMENTACION
+
+dar formato
+
+tutorial hacerlo en caja de color azul
+
+
+REQUISITOS
+
+otras causas de no admision (desplegable)
+
+PREGUNTAS FRECUENTES
+
+acomodar
+
+
+CONOCENOS
+
+
+ESCUELAS
+
+Reacomodar titulos y sumar logo de las escuelas que pasó Abel por Wa
+
+logos de escuelas ponerlo en un lugar lindo

@@ -464,8 +464,9 @@ body {
   background-color: #fafafa !important;
   border-color: #fafafa !important;
 }
+/* COLOR DEL TEXTO DEL NAV */
 .text-primary {
-  color: white !important;
+  color: #0073a5 !important;
 }
 .text-secondary {
   color: #ff6666 !important;

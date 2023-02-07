@@ -1,66 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250.21 438.83">
-  <defs>
-    <style>
-      .cls-1, .cls-2, .cls-3 {
-        fill: #fff;
-      }
-
-      .cls-4 {
-        fill: none;
-        stroke: #0b75a4;
-        stroke-miterlimit: 10;
-        stroke-width: 2px;
-      }
-
-      .cls-5 {
-        letter-spacing: -.07em;
-      }
-
-      .cls-6 {
-        letter-spacing: -.04em;
-      }
-
-      .cls-7 {
-        letter-spacing: -.02em;
-      }
-
-      .cls-8 {
-        font-size: 15px;
-      }
-
-      .cls-8, .cls-9 {
-        fill: #0b75a4;
-      }
-
-      .cls-8, .cls-2, .cls-3 {
-        font-family: Arial-BoldMT, Arial;
-        font-weight: 700;
-      }
-
-      .cls-10 {
-        fill: #f89e41;
-      }
-
-      .cls-2 {
-        font-size: 21.74px;
-      }
-
-      .cls-3 {
-        font-size: 16.89px;
-      }
-    </style>
-  </defs>
-  <image width="282" height="471" transform="translate(-18 -14.17)" xlink:href="data:image/png;base64,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aIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOgCcIGQBOEDYAmCBsATRA2AJogbAA0QdgAaIKwAdAEYQOg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"/>
-  <rect class="cls-1" x="20.33" y="20.33" width="209.54" height="398.16" rx="23.81" ry="23.81"/>
-  <rect class="cls-10" x="20.33" y="83.45" width="209.54" height="42.41"/>
-  <text class="cls-3" transform="translate(41.43 110.63)"><tspan x="0" y="0">E</tspan><tspan class="cls-5" x="11.26" y="0">T</tspan><tspan x="20.33" y="0">A</tspan><tspan class="cls-5" x="32.52" y="0">P</tspan><tspan class="cls-6" x="42.53" y="0">A</tspan><tspan x="54.1" y="0" xml:space="preserve"> PRESENCIA</tspan><tspan class="cls-7" x="157.33" y="0">L</tspan></text>
-  <path class="cls-10" d="m118.9,176.79c-1,0-1.82-.38-2.46-1.14-.64-.76-.87-1.62-.68-2.57l1.07-6.42c.38-2.04,1.34-3.72,2.89-5.03,1.55-1.31,3.34-1.96,5.39-1.96,2.09,0,3.91.65,5.46,1.96,1.55,1.31,2.51,2.98,2.89,5.03l1.07,6.42c.19.95-.04,1.81-.68,2.57s-1.46,1.14-2.46,1.14h-12.48Zm1.28-4.28h9.92l-.86-5.14c-.19-1-.67-1.82-1.43-2.46s-1.64-.96-2.64-.96c-1.05,0-1.95.32-2.71.96-.76.64-1.24,1.46-1.43,2.46l-.86,5.14Zm-19.4,9.35c-.95.05-1.78-.14-2.5-.57s-1.17-1.07-1.36-1.93c-.1-.38-.11-.76-.04-1.14.07-.38.18-.74.32-1.07,0,.05-.02-.05-.07-.29,0-.05-.21-.55-.64-1.5-.1-.52-.05-.99.14-1.39.19-.4.48-.8.86-1.18l.14-.14c.1-.81.43-1.47,1-2,.57-.52,1.26-.78,2.07-.78.05,0,.43.07,1.14.21l.21-.07c.24-.19.51-.34.82-.46.31-.12.65-.18,1.03-.18.43,0,.83.08,1.21.25.38.17.67.39.86.68.05,0,.08.01.11.04s.06.04.11.04c.57.05,1.07.23,1.5.54.43.31.76.73,1,1.25.1.29.13.57.11.86-.02.29-.08.55-.18.78,0,.1.02.17.07.21.29.29.51.61.68.96s.25.73.25,1.11c0,.1-.12.52-.36,1.28-.05.1-.05.19,0,.29.05.19.07.52.07,1,0,.86-.36,1.61-1.07,2.25-.71.64-1.59.96-2.64.96h-4.85Zm47.72-.07c-1.38,0-2.56-.49-3.53-1.46-.97-.97-1.46-2.15-1.46-3.53,0-.52.08-1.01.25-1.46.17-.45.37-.87.61-1.25l-1.78-1.57c-.38-.38-.45-.81-.21-1.28.24-.48.62-.71,1.14-.71h4.99c1.38,0,2.56.49,3.53,1.46.97.97,1.46,2.15,1.46,3.53v1.28c0,1.38-.49,2.56-1.46,3.53-.97.97-2.15,1.46-3.53,1.46Zm-57.64,12.13v-3.78c0-1.85,1-3.35,3-4.49,2-1.14,4.57-1.71,7.7-1.71.62,0,1.19.01,1.71.04s1.05.08,1.57.18c-.38.81-.67,1.63-.86,2.46s-.29,1.72-.29,2.68v4.64h-12.84Zm17.12,0v-4.64c0-3.09,1.58-5.59,4.74-7.49s7.29-2.85,12.38-2.85,9.27.95,12.41,2.85c3.14,1.9,4.71,4.4,4.71,7.49v4.64h-34.24Zm40.66-9.99c3.23,0,5.83.57,7.78,1.71,1.95,1.14,2.92,2.64,2.92,4.49v3.78h-12.84v-4.64c0-.95-.08-1.84-.25-2.68-.17-.83-.44-1.65-.82-2.46.52-.1,1.05-.15,1.57-.18.52-.02,1.07-.04,1.64-.04Zm-23.54-.71c-3.8,0-6.9.57-9.27,1.71-2.38,1.14-3.57,2.59-3.57,4.35v.36h25.68v-.43c0-1.71-1.18-3.14-3.53-4.28-2.35-1.14-5.46-1.71-9.31-1.71Z"/>
-  <rect class="cls-4" x="20.33" y="20.33" width="209.54" height="398.16" rx="23.81" ry="23.81"/>
-  <circle class="cls-10" cx="125.11" cy="50.35" r="14.76"/>
-  <text class="cls-2" transform="translate(119.06 58.57)"><tspan x="0" y="0">3</tspan></text>
-  <text class="cls-8" transform="translate(38.39 240.41)"><tspan x="0" y="0">Exámenes intelectuales,</tspan><tspan x="-2.91" y="18">psicotécnicos, entrevista </tspan><tspan x="5.01" y="36">psicológica, exámenes</tspan><tspan x="5.85" y="54">médicos, prueba física</tspan><tspan x="9.59" y="72">y entrevista personal.</tspan></text>
-  <g id="Capa_1-2" data-name="Capa 1-2">
-    <path class="cls-9" d="m121.14,382.03c1.07.92,2.28.12,3.46.55-.25.35-.41.7-.66.95-1.09,1.05-2.44,1.44-3.92,1.38-.16,0-.43-.28-.43-.43,0-.47-.29-.48-.63-.56-.69-.16-1.44-.26-2.02-.61-.82-.5-1.68-.56-2.57-.6-.38-.02-.77,0-1.22,0,.06-.62.07-1.16.18-1.69.13-.61.03-1.13-.17-1.71-.26-.76-.39-1.58-.44-2.39-.04-.58-.08-.98-.94-.82.11-.55.17-1.02.29-1.48.35-1.26,1.17-2.18,2.2-2.93.17-.13.48-.09.72-.13,0,.21.03.42.01.62-.04.61-.07,1.22-.16,1.82-.06.39-.14.81-.36,1.13-.61.89.18,3.16,1.25,3.41.13.03.32-.04.44-.13,2.49-1.98,4.97-3.98,7.52-6.02-.32-.3-.62-.57-.93-.86-.48.3-.93,1.02-1.55.35-.49-.53.02-.96.4-1.39-.36-.4-.64-.72-1.31-.59-1.07.21-2.06-.62-2.28-1.75-.17-.86.41-1.77,1.3-2.02,1.23-.35,2.65.65,2.56,1.97-.05.78.4.96.83,1.31.43-.34.86-.85,1.39-.35.44.41.19.9-.16,1.28,1.26,1.15.87,1.16,2.33-.09-.31-.41-.64-.89-.15-1.32.55-.48.96.05,1.4.37.4-.37.92-.52.81-1.31-.14-1,.86-1.95,1.89-2.04.98-.08,1.79.55,1.97,1.53.23,1.24-.95,2.5-2.27,2.31-.63-.1-.95.14-1.28.58.3.44.93.89.31,1.46-.61.56-1.01-.11-1.5-.43-.35.32-.68.63-1.07.99,1.26,1.01,2.49,1.99,3.71,2.97,1.24.99,2.5,1.98,3.72,3,.47.39.83.32,1.22-.06.74-.71.91-1.61.94-2.57,0-.08,0-.19-.05-.23-.69-.57-.53-1.35-.56-2.1-.01-.37-.11-.72-.14-1.09-.02-.22.03-.44.05-.66.23.05.5.04.67.16,1.01.71,1.79,1.61,2.17,2.8.15.47.22.98.33,1.46-.89.26-.81.27-.93,1.13-.13.9-.47,1.77-.6,2.67-.09.66.02,1.36.05,2.04.01.28.06.56.11.93-.78,0-1.49-.04-2.19.01-.37.02-.76.14-1.08.32-.82.48-1.67.86-2.64.87-.35,0-.5.12-.55.49-.02.19-.28.5-.43.5-1.53,0-2.95-.35-4.05-1.53-.2-.22-.34-.49-.55-.79,1.14-.54,2.38.34,3.41-.52.55.81,1.24.51,1.89.19.47-.23.91-.55,1.32-.87.62-.49.62-.78.02-1.33-1.32-1.22-2.65-2.43-3.98-3.64-1.07-.98-2.13-1.95-3.22-2.95-1.83,1.67-3.62,3.31-5.41,4.95-.59.54-1.18,1.07-1.76,1.62-.47.46-.47.77.05,1.16.53.4,1.1.78,1.7,1.06.53.24,1.16.49,1.53-.37h-.01Zm9.23-13.43c-.09.09-.18.18-.27.27.81-.23,1.16-.56,1.09-1.07-.06-.46-.35-.72-.8-.79-.5-.07-.92.34-1.11,1.05.12-.12.24-.24.36-.36.24.3.48.6.71.89h.01Zm-10.38.37c.3-.32.58-.61.87-.92-.25-.68-.63-1.01-1.13-.93-.44.07-.68.35-.74.77-.08.52.21.8,1.01,1.07h0Z"/>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 250.2 438.8" style="enable-background:new 0 0 250.2 438.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#BD8ABE;}
+	.st2{fill:#F89E41;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:16.8884px;}
+	.st5{fill:#4BBCB6;}
+	.st6{fill:#ED8242;}
+	.st7{fill:#0B75A4;}
+	.st8{fill:none;stroke:#0B75A4;stroke-width:2;stroke-miterlimit:10;}
+	.st9{font-size:21.7407px;}
+	.st10{fill:none;}
+	.st11{font-size:15px;}
+	.st12{fill:#CC405E;}
+</style>
+<g>
+	<image style="overflow:visible;" width="282" height="471" xlink:href="3DC4D485.png"  transform="matrix(1 0 0 1 -18 -14.17)">
+	</image>
+</g>
+<path class="st0" d="M206.1,418.5H44.1c-13.1,0-23.8-10.7-23.8-23.8V44.1C20.3,31,31,20.3,44.1,20.3h161.9
+	c13.1,0,23.8,10.7,23.8,23.8v350.5C229.9,407.8,219.2,418.5,206.1,418.5z"/>
+<rect x="20.3" y="83.4" class="st2" width="209.5" height="42.4"/>
+<text transform="matrix(1 0 0 1 39.7147 110.6337)" class="st0 st3 st4">ETAPA PRESENCIAL</text>
+<path class="st2" d="M118.9,170.8c-1,0-1.8-0.4-2.5-1.1s-0.9-1.6-0.7-2.6l1.1-6.4c0.4-2,1.3-3.7,2.9-5c1.5-1.3,3.3-2,5.4-2
+	c2.1,0,3.9,0.7,5.5,2s2.5,3,2.9,5l1.1,6.4c0.2,1,0,1.8-0.7,2.6c-0.6,0.8-1.5,1.1-2.5,1.1H118.9z M120.2,166.5h9.9l-0.9-5.1
+	c-0.2-1-0.7-1.8-1.4-2.5s-1.6-1-2.6-1c-1,0-1.9,0.3-2.7,1c-0.8,0.6-1.2,1.5-1.4,2.5L120.2,166.5z M100.8,175.9c-1,0-1.8-0.1-2.5-0.6
+	c-0.7-0.4-1.2-1.1-1.4-1.9c-0.1-0.4-0.1-0.8,0-1.1c0.1-0.4,0.2-0.7,0.3-1.1c0,0,0,0-0.1-0.3c0,0-0.2-0.5-0.6-1.5
+	c-0.1-0.5,0-1,0.1-1.4c0.2-0.4,0.5-0.8,0.9-1.2l0.1-0.1c0.1-0.8,0.4-1.5,1-2c0.6-0.5,1.3-0.8,2.1-0.8c0,0,0.4,0.1,1.1,0.2l0.2-0.1
+	c0.2-0.2,0.5-0.3,0.8-0.5s0.7-0.2,1-0.2c0.4,0,0.8,0.1,1.2,0.2c0.4,0.2,0.7,0.4,0.9,0.7c0,0,0.1,0,0.1,0c0,0,0.1,0,0.1,0
+	c0.6,0,1.1,0.2,1.5,0.5s0.8,0.7,1,1.2c0.1,0.3,0.1,0.6,0.1,0.9c0,0.3-0.1,0.5-0.2,0.8c0,0.1,0,0.2,0.1,0.2c0.3,0.3,0.5,0.6,0.7,1
+	c0.2,0.4,0.2,0.7,0.2,1.1c0,0.1-0.1,0.5-0.4,1.3c0,0.1,0,0.2,0,0.3c0,0.2,0.1,0.5,0.1,1c0,0.9-0.4,1.6-1.1,2.2s-1.6,1-2.6,1H100.8z
+	 M148.5,175.8c-1.4,0-2.6-0.5-3.5-1.5s-1.5-2.2-1.5-3.5c0-0.5,0.1-1,0.2-1.5c0.2-0.5,0.4-0.9,0.6-1.2l-1.8-1.6
+	c-0.4-0.4-0.5-0.8-0.2-1.3c0.2-0.5,0.6-0.7,1.1-0.7h5c1.4,0,2.6,0.5,3.5,1.5c1,1,1.5,2.2,1.5,3.5v1.3c0,1.4-0.5,2.6-1.5,3.5
+	C151.1,175.3,149.9,175.8,148.5,175.8z M90.9,187.9v-3.8c0-1.9,1-3.4,3-4.5c2-1.1,4.6-1.7,7.7-1.7c0.6,0,1.2,0,1.7,0
+	c0.5,0,1,0.1,1.6,0.2c-0.4,0.8-0.7,1.6-0.9,2.5s-0.3,1.7-0.3,2.7v4.6H90.9z M108,187.9v-4.6c0-3.1,1.6-5.6,4.7-7.5
+	c3.2-1.9,7.3-2.9,12.4-2.9c5.1,0,9.3,1,12.4,2.9c3.1,1.9,4.7,4.4,4.7,7.5v4.6H108z M148.6,177.9c3.2,0,5.8,0.6,7.8,1.7
+	c1.9,1.1,2.9,2.6,2.9,4.5v3.8h-12.8v-4.6c0-1-0.1-1.8-0.2-2.7c-0.2-0.8-0.4-1.7-0.8-2.5c0.5-0.1,1-0.2,1.6-0.2
+	C147.5,177.9,148.1,177.9,148.6,177.9z M125.1,177.2c-3.8,0-6.9,0.6-9.3,1.7c-2.4,1.1-3.6,2.6-3.6,4.4v0.4h25.7v-0.4
+	c0-1.7-1.2-3.1-3.5-4.3C132.1,177.8,129,177.2,125.1,177.2z"/>
+<path class="st8" d="M206.1,418.5H44.1c-13.1,0-23.8-10.7-23.8-23.8V44.1C20.3,31,31,20.3,44.1,20.3h161.9
+	c13.1,0,23.8,10.7,23.8,23.8v350.5C229.9,407.8,219.2,418.5,206.1,418.5z"/>
+<circle class="st2" cx="125.1" cy="50.4" r="14.8"/>
+<text transform="matrix(1 0 0 1 119.0596 58.5713)" class="st0 st3 st9">3</text>
+<g id="Capa_1-2_00000107571527286591769880000017216828423229550224_">
+	<path class="st7" d="M121.1,382c1.1,0.9,2.3,0.1,3.5,0.5c-0.2,0.4-0.4,0.7-0.7,0.9c-1.1,1.1-2.4,1.4-3.9,1.4
+		c-0.2,0-0.4-0.3-0.4-0.4c0-0.5-0.3-0.5-0.6-0.6c-0.7-0.2-1.4-0.3-2-0.6c-0.8-0.5-1.7-0.6-2.6-0.6c-0.4,0-0.8,0-1.2,0
+		c0.1-0.6,0.1-1.2,0.2-1.7c0.1-0.6,0-1.1-0.2-1.7c-0.3-0.8-0.4-1.6-0.4-2.4c0-0.6-0.1-1-0.9-0.8c0.1-0.6,0.2-1,0.3-1.5
+		c0.3-1.3,1.2-2.2,2.2-2.9c0.2-0.1,0.5-0.1,0.7-0.1c0,0.2,0,0.4,0,0.6c0,0.6-0.1,1.2-0.2,1.8c-0.1,0.4-0.1,0.8-0.4,1.1
+		c-0.6,0.9,0.2,3.2,1.2,3.4c0.1,0,0.3,0,0.4-0.1c2.5-2,5-4,7.5-6c-0.3-0.3-0.6-0.6-0.9-0.9c-0.5,0.3-0.9,1-1.6,0.4
+		c-0.5-0.5,0-1,0.4-1.4c-0.4-0.4-0.6-0.7-1.3-0.6c-1.1,0.2-2.1-0.6-2.3-1.7c-0.2-0.9,0.4-1.8,1.3-2c1.2-0.4,2.7,0.7,2.6,2
+		c-0.1,0.8,0.4,1,0.8,1.3c0.4-0.3,0.9-0.9,1.4-0.3c0.4,0.4,0.2,0.9-0.2,1.3c1.3,1.2,0.9,1.2,2.3-0.1c-0.3-0.4-0.6-0.9-0.1-1.3
+		c0.5-0.5,1,0,1.4,0.4c0.4-0.4,0.9-0.5,0.8-1.3c-0.1-1,0.9-2,1.9-2c1-0.1,1.8,0.5,2,1.5c0.2,1.2-0.9,2.5-2.3,2.3
+		c-0.6-0.1-0.9,0.1-1.3,0.6c0.3,0.4,0.9,0.9,0.3,1.5c-0.6,0.6-1-0.1-1.5-0.4c-0.3,0.3-0.7,0.6-1.1,1c1.3,1,2.5,2,3.7,3
+		c1.2,1,2.5,2,3.7,3c0.5,0.4,0.8,0.3,1.2-0.1c0.7-0.7,0.9-1.6,0.9-2.6c0-0.1,0-0.2-0.1-0.2c-0.7-0.6-0.5-1.4-0.6-2.1
+		c0-0.4-0.1-0.7-0.1-1.1c0-0.2,0-0.4,0-0.7c0.2,0,0.5,0,0.7,0.2c1,0.7,1.8,1.6,2.2,2.8c0.1,0.5,0.2,1,0.3,1.5
+		c-0.9,0.3-0.8,0.3-0.9,1.1c-0.1,0.9-0.5,1.8-0.6,2.7c-0.1,0.7,0,1.4,0.1,2c0,0.3,0.1,0.6,0.1,0.9c-0.8,0-1.5,0-2.2,0
+		c-0.4,0-0.8,0.1-1.1,0.3c-0.8,0.5-1.7,0.9-2.6,0.9c-0.4,0-0.5,0.1-0.5,0.5c0,0.2-0.3,0.5-0.4,0.5c-1.5,0-3-0.3-4-1.5
+		c-0.2-0.2-0.3-0.5-0.5-0.8c1.1-0.5,2.4,0.3,3.4-0.5c0.6,0.8,1.2,0.5,1.9,0.2c0.5-0.2,0.9-0.5,1.3-0.9c0.6-0.5,0.6-0.8,0-1.3
+		c-1.3-1.2-2.7-2.4-4-3.6c-1.1-1-2.1-2-3.2-3c-1.8,1.7-3.6,3.3-5.4,5c-0.6,0.5-1.2,1.1-1.8,1.6c-0.5,0.5-0.5,0.8,0,1.2
+		c0.5,0.4,1.1,0.8,1.7,1.1C120.1,382.6,120.8,382.9,121.1,382L121.1,382z M130.4,368.6c-0.1,0.1-0.2,0.2-0.3,0.3
+		c0.8-0.2,1.2-0.6,1.1-1.1c-0.1-0.5-0.4-0.7-0.8-0.8c-0.5-0.1-0.9,0.3-1.1,1.1c0.1-0.1,0.2-0.2,0.4-0.4
+		C129.9,368,130.1,368.3,130.4,368.6L130.4,368.6z M120,369c0.3-0.3,0.6-0.6,0.9-0.9c-0.3-0.7-0.6-1-1.1-0.9
+		c-0.4,0.1-0.7,0.3-0.7,0.8C118.9,368.4,119.2,368.7,120,369L120,369z"/>
+</g>
+<g>
+	<rect x="45.8" y="206.4" class="st10" width="191" height="172.1"/>
+	<text transform="matrix(1 0 0 1 45.7628 217.0951)"><tspan x="0" y="0" class="st7 st3 st11">Rendir exámenes:</tspan><tspan x="0" y="36" class="st7 st3 st11">Intelectual</tspan><tspan x="0" y="54" class="st7 st3 st11">Psicotécnico</tspan><tspan x="0" y="72" class="st7 st3 st11">Entrevista psicológica</tspan><tspan x="0" y="90" class="st7 st3 st11">Médico</tspan><tspan x="0" y="108" class="st7 st3 st11">Prueba física</tspan><tspan x="0" y="126" class="st7 st3 st11">Entrevista personal</tspan></text>
+	<circle class="st7" cx="34.2" cy="248.7" r="1.8"/>
+	<circle class="st7" cx="34.2" cy="267.3" r="1.8"/>
+	<circle class="st7" cx="34.2" cy="283.9" r="1.8"/>
+	<circle class="st7" cx="34.2" cy="302.6" r="1.8"/>
+	<circle class="st7" cx="34.2" cy="320.2" r="1.8"/>
+	<circle class="st7" cx="34.2" cy="337.8" r="1.8"/>
+</g>
 </svg>
